@@ -5,7 +5,7 @@
 
 <b>Переробка модуля Урал-авто-2 на діапазон 88-108 МГц</b>
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Spudnik-Drive-mk-III/main/FM%20module.svg" width="400" alt="Spudnik Drive Mark 3">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/FM%20module.svg" width="600" alt="Spudnik Drive Mark 3">
 
 <br />
 1. Змінено обмотки катушок:
