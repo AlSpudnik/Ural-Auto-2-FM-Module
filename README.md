@@ -4,6 +4,9 @@
 Гетеродин і змішувач були зібрані на мікросхемі К2ЖА242 (у більш нових версіях була К224ХА1 - це одне й те саме).
 
 <b>Переробка модуля Урал-авто-2 на діапазон 88-108 МГц</b>
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/Spudnik-Drive-mk-III/main/FM%20module.svg" width="400" alt="Spudnik Drive Mark 3">
+
 <br />
 1. Змінено обмотки катушок:
 
