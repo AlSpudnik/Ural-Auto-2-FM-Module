@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/FM%20module.svg" width="800" alt="Spudnik Drive Mark 3">
 
 <br />
+
 1. Змінено обмотки катушок:
 
 L6, L7, L8 - по 4 витки кожна, дріт 0,2мм. Діаметр витків 4,3мм. Осердя - ферит М100НН.
