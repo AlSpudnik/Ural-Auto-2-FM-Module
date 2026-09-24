@@ -13,7 +13,7 @@
 
 Після зняття екрану, слід відпаяти чотири дроти підʼєднаного конденсатора змінної ємності. Тепер потрібно відкрутити і саму плату, піднявши її відпаяти дроти живлення, антени, АПЧГ та виходу ПЧ.
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/fm_module/FM%20module.svg" width="800" alt="">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/fm_module/ural_FM_module.svg" width="800" alt="">
 
 <br />
 
