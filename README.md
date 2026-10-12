@@ -3,7 +3,7 @@
 Також, радіоприймачі мають значну відмінність саме за блоком УКХ. 
 Гетеродин і змішувач були зібрані на мікросхемі К2ЖА242 (у більш нових версіях була К224ХА1 - це одне й те саме).
 
-[![Схема 1975](https://img.shields.io/badge/Схема_1975-red.svg )](https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/ural_avto_2_schem.jpeg)
+[![Схема 1975](https://img.shields.io/badge/Ctrl_+_клік_мишкою-Схема_1975-orange.svg )](https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/ural_avto_2_schem.jpeg)
 
 Перемикачі П2К згідно схеми
 
