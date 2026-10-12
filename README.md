@@ -72,3 +72,8 @@ R5 - 12k
 <img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/fm_module/fm_ural_origanal.png" width="800" alt="">
 
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/photo/IMG_20260928_120413899_HDR.jpg" width="800" alt="">
+
+Налаштування контурів проводити зі встановленим екраном!
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/Ural-Auto-2-FM-Module/main/photo/IMG_20260928_120645678.jpg" width="800" alt="">
